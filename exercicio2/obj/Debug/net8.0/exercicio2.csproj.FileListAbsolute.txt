@@ -1,0 +1,28 @@
+C:\Users\0200832121015\Desktop\exercicios\exercicio2\bin\Debug\net8.0\exercicio2.exe
+C:\Users\0200832121015\Desktop\exercicios\exercicio2\bin\Debug\net8.0\exercicio2.deps.json
+C:\Users\0200832121015\Desktop\exercicios\exercicio2\bin\Debug\net8.0\exercicio2.runtimeconfig.json
+C:\Users\0200832121015\Desktop\exercicios\exercicio2\bin\Debug\net8.0\exercicio2.dll
+C:\Users\0200832121015\Desktop\exercicios\exercicio2\bin\Debug\net8.0\exercicio2.pdb
+C:\Users\0200832121015\Desktop\exercicios\exercicio2\obj\Debug\net8.0\exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0200832121015\Desktop\exercicios\exercicio2\obj\Debug\net8.0\exercicio2.AssemblyInfoInputs.cache
+C:\Users\0200832121015\Desktop\exercicios\exercicio2\obj\Debug\net8.0\exercicio2.AssemblyInfo.cs
+C:\Users\0200832121015\Desktop\exercicios\exercicio2\obj\Debug\net8.0\exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\0200832121015\Desktop\exercicios\exercicio2\obj\Debug\net8.0\exercicio2.dll
+C:\Users\0200832121015\Desktop\exercicios\exercicio2\obj\Debug\net8.0\refint\exercicio2.dll
+C:\Users\0200832121015\Desktop\exercicios\exercicio2\obj\Debug\net8.0\exercicio2.pdb
+C:\Users\0200832121015\Desktop\exercicios\exercicio2\obj\Debug\net8.0\exercicio2.genruntimeconfig.cache
+C:\Users\0200832121015\Desktop\exercicios\exercicio2\obj\Debug\net8.0\ref\exercicio2.dll
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio2\obj\Debug\net8.0\exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio2\obj\Debug\net8.0\exercicio2.AssemblyInfoInputs.cache
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio2\obj\Debug\net8.0\exercicio2.AssemblyInfo.cs
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio2\obj\Debug\net8.0\exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio2\obj\Debug\net8.0\exercicio2.dll
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio2\obj\Debug\net8.0\refint\exercicio2.dll
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio2\obj\Debug\net8.0\exercicio2.pdb
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio2\bin\Debug\net8.0\exercicio2.exe
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio2\bin\Debug\net8.0\exercicio2.deps.json
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio2\bin\Debug\net8.0\exercicio2.runtimeconfig.json
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio2\bin\Debug\net8.0\exercicio2.dll
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio2\bin\Debug\net8.0\exercicio2.pdb
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio2\obj\Debug\net8.0\exercicio2.genruntimeconfig.cache
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio2\obj\Debug\net8.0\ref\exercicio2.dll

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\exercicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE5E1D0-A8B6-4352-9BB3-289795B2CFC2}|exercicio5\\exercicio5.csproj|c:\\users\\vasco\\onedrive\\\u00E1rea de trabalho\\exercicios\\exercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE5E1D0-A8B6-4352-9BB3-289795B2CFC2}|exercicio5\\exercicio5.csproj|solutionrelative:exercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A6D919-4FE0-445E-B0CA-E45E184BE089}|exercicio4\\exercicio4.csproj|c:\\users\\vasco\\onedrive\\\u00E1rea de trabalho\\exercicios\\exercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A6D919-4FE0-445E-B0CA-E45E184BE089}|exercicio4\\exercicio4.csproj|solutionrelative:exercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FB6A3E-6D92-4B97-A231-4FA3414A7981}|exercicio1\\exercicio1.csproj|c:\\users\\vasco\\onedrive\\\u00E1rea de trabalho\\exercicios\\exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FB6A3E-6D92-4B97-A231-4FA3414A7981}|exercicio1\\exercicio1.csproj|solutionrelative:exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62C489-550A-4EE8-94DF-F8589D5F4875}|exercicio2\\exercicio2.csproj|c:\\users\\vasco\\onedrive\\\u00E1rea de trabalho\\exercicios\\exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62C489-550A-4EE8-94DF-F8589D5F4875}|exercicio2\\exercicio2.csproj|solutionrelative:exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E95B08-5D12-4152-AEF2-C0D5B0CB2BAD}|exercicio3\\exercicio3.csproj|c:\\users\\vasco\\onedrive\\\u00E1rea de trabalho\\exercicios\\exercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E95B08-5D12-4152-AEF2-C0D5B0CB2BAD}|exercicio3\\exercicio3.csproj|solutionrelative:exercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\exercicios\\exercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "exercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\exercicios\\exercicio1\\Program.cs",
+              "RelativeToolTip": "exercicio1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:36:20.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\exercicios\\exercicio5\\Program.cs",
+              "RelativeDocumentMoniker": "exercicio5\\Program.cs",
+              "ToolTip": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\exercicios\\exercicio5\\Program.cs",
+              "RelativeToolTip": "exercicio5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T00:54:24.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\exercicios\\exercicio4\\Program.cs",
+              "RelativeDocumentMoniker": "exercicio4\\Program.cs",
+              "ToolTip": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\exercicios\\exercicio4\\Program.cs",
+              "RelativeToolTip": "exercicio4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T00:09:48.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\exercicios\\exercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "exercicio3\\Program.cs",
+              "ToolTip": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\exercicios\\exercicio3\\Program.cs",
+              "RelativeToolTip": "exercicio3\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T23:24:47.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\exercicios\\exercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "exercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\exercicios\\exercicio2\\Program.cs",
+              "RelativeToolTip": "exercicio2\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T21:51:00.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

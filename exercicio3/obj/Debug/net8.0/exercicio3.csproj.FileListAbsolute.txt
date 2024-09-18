@@ -1,0 +1,14 @@
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio3\bin\Debug\net8.0\exercicio3.exe
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio3\bin\Debug\net8.0\exercicio3.deps.json
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio3\bin\Debug\net8.0\exercicio3.runtimeconfig.json
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio3\bin\Debug\net8.0\exercicio3.dll
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio3\bin\Debug\net8.0\exercicio3.pdb
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio3\obj\Debug\net8.0\exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio3\obj\Debug\net8.0\exercicio3.AssemblyInfoInputs.cache
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio3\obj\Debug\net8.0\exercicio3.AssemblyInfo.cs
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio3\obj\Debug\net8.0\exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio3\obj\Debug\net8.0\exercicio3.dll
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio3\obj\Debug\net8.0\refint\exercicio3.dll
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio3\obj\Debug\net8.0\exercicio3.pdb
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio3\obj\Debug\net8.0\exercicio3.genruntimeconfig.cache
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio3\obj\Debug\net8.0\ref\exercicio3.dll

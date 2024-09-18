@@ -1,0 +1,14 @@
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio4\obj\Debug\net8.0\exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio4\obj\Debug\net8.0\exercicio4.AssemblyInfoInputs.cache
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio4\obj\Debug\net8.0\exercicio4.AssemblyInfo.cs
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio4\obj\Debug\net8.0\exercicio4.csproj.CoreCompileInputs.cache
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio4\bin\Debug\net8.0\exercicio4.exe
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio4\bin\Debug\net8.0\exercicio4.deps.json
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio4\bin\Debug\net8.0\exercicio4.runtimeconfig.json
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio4\bin\Debug\net8.0\exercicio4.dll
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio4\bin\Debug\net8.0\exercicio4.pdb
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio4\obj\Debug\net8.0\exercicio4.dll
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio4\obj\Debug\net8.0\refint\exercicio4.dll
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio4\obj\Debug\net8.0\exercicio4.pdb
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio4\obj\Debug\net8.0\exercicio4.genruntimeconfig.cache
+C:\Users\vasco\OneDrive\Área de Trabalho\exercicios\exercicio4\obj\Debug\net8.0\ref\exercicio4.dll
